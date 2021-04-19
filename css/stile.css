@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrap {
+    max-width: 1172px;
+    margin: 0 auto;
+}
+
+.product {
+background: #445161;
+color: #FFFFFF;
+}
+
+.product_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.product-img {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.f_li {
+    list-style-type: none;
+}
+.product-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 69px;
+    margin-bottom: 40px;
+}
+
+.product-item {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.about_product {
+
+}
+.pluses_product {
+    background: #F5F5F5;
+}
+.reviews {
+    background: #F5F5F5;
+}
+.reviews_all {
+    background: #EBEBEB;
+}
+.col_price {
+    background: #445161;
+}
+.price {
+    background: #FFFFFF;
+}
+.premium {
+
+}
